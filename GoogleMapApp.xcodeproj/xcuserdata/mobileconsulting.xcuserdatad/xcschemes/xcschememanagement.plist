@@ -7,7 +7,25 @@
 		<key>GoogleMapApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4D87C1ED1FFD44D700962E2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D87C2041FFD44D700962E2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D87C20F1FFD44D700962E2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
